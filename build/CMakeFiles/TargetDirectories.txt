@@ -1,0 +1,3 @@
+/home/cs18/Documents/sf_rasterizer/build/CMakeFiles/rebuild_cache.dir
+/home/cs18/Documents/sf_rasterizer/build/CMakeFiles/Rasterizer.dir
+/home/cs18/Documents/sf_rasterizer/build/CMakeFiles/edit_cache.dir
